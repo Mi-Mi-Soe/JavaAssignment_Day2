@@ -2,7 +2,11 @@ package TestingControlStatement;
 
 import java.util.Scanner;
 
-//interface class
+
+/**
+ * @author 95977
+ *
+ */
 interface Artist {
     public void doWhat();
 }
